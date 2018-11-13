@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Victor",
+    "presence": true
+  },
+  {
+    "name": "Roma",
+    "presence": false
+  },
+  {
+    "name": "Olya",
+    "presence": true
+  },
+  {
+    "name": "Katya",
+    "presence": true
+  },
+  {
+    "name": "Oleg",
+    "presence": false
+  }
+]

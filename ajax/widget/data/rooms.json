@@ -1,0 +1,22 @@
+[
+  {
+    "name": 1,
+    "avaliable": false
+  },
+  {
+    "name": 2,
+    "avaliable": false
+  },
+  {
+    "name": 3,
+    "avaliable": true
+  },
+  {
+    "name": 4,
+    "avaliable": false
+  },
+  {
+    "name": 5,
+    "avaliable": true
+  }
+]

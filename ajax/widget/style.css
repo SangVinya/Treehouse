@@ -1,0 +1,19 @@
+.text {
+  width: 80%;
+}
+ul {
+  list-style: none;
+}
+li {
+  border-bottom: 2px solid black;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}
+.in {
+  background-color: #32CD32;
+}
+.out {
+  background-color: #B22222;
+}
